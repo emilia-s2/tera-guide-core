@@ -1,8 +1,9 @@
 # tera-guide-core
 
-See https://github.com/hsdn/tera-guide
+https://github.com/emilia-s2/Guia-DG-Portugues
+https://github.com/emilia-s2/Guia-DG-Espanol
 
 ## Dependencies
-* **Library** - https://github.com/tera-toolbox-mods/library
+* **Library** 
 
-When using TeraToolbox, all dependencies will be installed automatically.
+Ao usar o TeraToolbox, todas as dependências serão instaladas automaticamente.
