@@ -7,7 +7,7 @@ class NetworkMod {
 	constructor() {
 		this.params = {
 			colors: { gui: {}, general: {} }, // color settings
-			command: ["guide"], // module command
+			command: ["guia"], // module command
 		};
 
 		this.guide = {
