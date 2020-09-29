@@ -6,9 +6,9 @@
         "guiName": "tera-guide-core"
     },
     "author": "HSDN",
-    "description": "TERA-Guide module library.",
-    "servers": ["https://raw.githubusercontent.com/hsdn/tera-guide-core/master/"],
-    "supportUrl": "https://github.com/hsdn/tera-guide/issues",
+    "description": "TERA-Guide modulo library.",
+    "servers": ["https://raw.githubusercontent.com/emilia-s2/tera-guide-core/master/"],
+    "supportUrl": "https://github.com/emilia-s2/tera-guide-core/issues",
     "dependencies": {
         "library": "https://raw.githubusercontent.com/tera-toolbox-mods/library/master/module.json"
     }
