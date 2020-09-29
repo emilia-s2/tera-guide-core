@@ -1,6 +1,6 @@
 # tera-guide-core
 
-https://github.com/emilia-s2/Guia-DG-Portugues
+https://github.com/emilia-s2/Guia-DG-Portugues<br>
 https://github.com/emilia-s2/Guia-DG-Espanol
 
 ## Dependencies
