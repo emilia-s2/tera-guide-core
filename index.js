@@ -7,7 +7,8 @@ class NetworkMod {
 	constructor() {
 		this.params = {
 			colors: { gui: {}, general: {} }, // color settings
-			command: ["guia"], // module command
+			command: ["guide"], // module command
+			chat_name: "Guide", // set chat author name for notices
 		};
 
 		this.guide = {
